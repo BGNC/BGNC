@@ -2,7 +2,6 @@
 
 ### Hi there , I'm Buğra Onur :blush:
 
-## I'm a Computer Engineering student in Izmir Institute of Technology
 
 ### Reach out to me
 
