@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif" align="center" width="400" height="250">
+<img src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif" align="center" width="800" height="350">
 
 ### Hi there , I'm Buğra Onur :blush:
 
