@@ -1,7 +1,6 @@
-<img src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif" align="center" width="400" height="250">
 
 ### Hi there , I'm Buğra Onur :blush:
-
 
 ### Reach out to me
 
@@ -11,7 +10,6 @@
 
 <br/>
 <br/>
-
 
 [linkedin]: https://tr.linkedin.com/in/buğra-onur-genç-3312b7209
 [facebook]: https://www.facebook.com/bgrayakamoz.genc/
