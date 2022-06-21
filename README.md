@@ -6,7 +6,7 @@
 
 [<img height="24" width="24" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
-[<img height="24" width="24" src="https://unpkg.com/simple-icons@v4/icons/facebook.svg" align="left" />][facebook]
+
 
 <br/>
 <br/>
