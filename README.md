@@ -17,4 +17,4 @@
 </details>
 
 [linkedin]: https://tr.linkedin.com/in/buğra-onur-genç-3312b7209
-[facebook]: https://www.facebook.com/bgrayakamoz.genc/
+
