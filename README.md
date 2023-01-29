@@ -1,6 +1,6 @@
 
 
-### Hi there , I'm Buğra Onur :blush:
+### Hi there , I'm  Onur :blush:
 
 ### Reach out to me
 
