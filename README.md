@@ -30,4 +30,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%231572B6.svg?style=flat&logo=php&logoColor=purple)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=green)
-![SQL](https://img.shields.io/badge/sql-%236DB33F.svg?style=flat&logo=spring&logoColor=gray)
+![SQL](https://img.shields.io/badge/sql-%236DB33F.svg?style=flat&logo=sql&logoColor=white)
